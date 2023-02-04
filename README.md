@@ -8,6 +8,7 @@ I am currently nearing completion of my Master's degree in Mechatronics and Robo
 * 🤖 Currently working on my Masters Project: a Mobile 3D printing system.
 * 🔭 Seeking fulltime work in the tech industry!
 * 🐍 Skilled in Python, C++, Machine Learning, Circuit Design and PCB developement.
+* 🌱 My Portfolio: https://rohang9929.github.io
 * 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohan-gangakhedkar/), Email: rohang9929@gmail.com
 
 
