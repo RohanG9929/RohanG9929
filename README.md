@@ -1,10 +1,10 @@
 
-### Hi there, I am Rohan! 👋
+# Hi there, I am Rohan! 👋
 
-# About me 🏝️
+## About me 🏝️
 I am currently nearing completion of my Master's degree in Mechatronics and Robotics from New York University. I have a passion for everything robotics and tech, and love diving into new and challenging problems. At present I am looking to meaningfully contribute to the rapidly growing robotics industry in the USA with a role in the tech industry. Please take the time to check out my portfolio website [here](https://rohang9929.github.io).
 
-# Summary 🚀
+## Summary 🚀
 * 🤖 Currently working on my Masters Project: a Mobile 3D printing system.
 * 🔭 Seeking fulltime work in the tech industry!
 * 🐍 Skilled in Python, C++, Machine Learning, Circuit Design and PCB developement.
